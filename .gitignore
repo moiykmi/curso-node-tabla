@@ -1,0 +1,5 @@
+#app
+salida/*.txt
+
+#node
+node_modules/
